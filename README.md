@@ -1,5 +1,5 @@
-# Angular Routing
+# Angular SQL Passport template
 
-Lecture Three covers client-side routing with `ngRoute`.
+also includes lodash
 
 npm install to get started.
